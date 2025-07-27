@@ -1,0 +1,25 @@
+{
+    "title": "Application form for grant of LTC advance",
+    "outline": [
+        {
+            "level": "H3",
+            "text": "Persons in respect of whom LTC is proposed to be availed.",
+            "page": 0
+        },
+        {
+            "level": "H3",
+            "text": "Amount of advance required.",
+            "page": 0
+        },
+        {
+            "level": "H3",
+            "text": "I declare that the particulars furnished above are true and correct to the best of my knowledge.  I",
+            "page": 0
+        },
+        {
+            "level": "H3",
+            "text": "advance, I undertake to refund the entire advance in one lump sum.",
+            "page": 0
+        }
+    ]
+}
